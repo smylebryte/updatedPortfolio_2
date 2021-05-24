@@ -1,0 +1,19 @@
+.margin-right {
+    margin-right: 30px;
+}
+
+.brand-logo {
+    margin-right: 20px;
+}
+
+.profilePhoto {
+    height: 50%;
+}
+
+.block {
+    display: inline-block;
+}
+
+img {
+    height: 50%;
+}
