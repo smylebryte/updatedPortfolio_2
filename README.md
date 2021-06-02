@@ -1,6 +1,11 @@
 # updatedPortfolio_2
 
-This is a portfolio that includes my deployed projects and contact information. My highlighted projects include:
+This is a portfolio that includes my deployed projects and contact information. 
+
+## Deployed Portfolio
+https://smylebryte.github.io/updatedPortfolio_2/
+
+My highlighted projects include:
 
 MOODUE https://tmallz.github.io/moodue/
 
